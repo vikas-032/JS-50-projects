@@ -13,22 +13,18 @@ body {
 }
 
 .bg {
-background: url(https://media.istockphoto.com/id/182730617/photo/varkala-beach.jpg?s=1024x1024&w=is&k=20&c=yKKmAulycAaqi6uu4bx9Y6eB0JC23vuqoBNJGJNZ3o8);
-background-repeat: no-repeat;
-position: absolute;
-top: 0;
-left: 0;
-width: 100vw;
-height: 100vh;
-z-index: -1;
-filter: blur(70 px);
-
+  background: url(https://media.istockphoto.com/id/182730617/photo/varkala-beach.jpg?s=1024x1024&w=is&k=20&c=yKKmAulycAaqi6uu4bx9Y6eB0JC23vuqoBNJGJNZ3o8);
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: -1;
+  filter: blur(70 px);
 }
 
 .loading-text {
-    font-size: 50px;
-    color: #fff;
-
+  font-size: 50px;
+  color: #fff;
 }
-
-

@@ -1,5 +1,3 @@
-// script.js
-
 let api = "https://api.github.com/users/";
 
 let fetch = document.createElement("script");
